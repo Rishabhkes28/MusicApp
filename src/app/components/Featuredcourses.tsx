@@ -55,4 +55,4 @@ function FeaturedCourses() {
   )
 }
 
-export default FeaturedCourses
+export default FeaturedCourses 

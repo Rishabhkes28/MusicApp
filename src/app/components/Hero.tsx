@@ -17,7 +17,7 @@ function Hero() {
       <div className="mt-4">
        <Link href={"/courses"}>
        <Button borderRadius="1.75rem"
-       classN ame=""
+       
        >
        Explore Courses
        </Button>

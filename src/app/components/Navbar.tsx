@@ -1,9 +1,9 @@
 'use client'
 
 import React, { useState } from "react";
+import Link from 'next/link';
 import { HoveredLink, Menu, MenuItem} from "./ui/navbar-menu";
 import { cn } from "@/app/lib/utils";
-import Link from "next/link";
 
 
 function Navbar({ className }: { className?: string }) {
